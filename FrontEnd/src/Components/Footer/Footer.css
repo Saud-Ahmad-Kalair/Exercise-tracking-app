@@ -1,0 +1,9 @@
+#footer{
+/* background-color: rgba(0, 0, 0, 0.784);
+ */
+ background-color: black;
+position: relative;
+bottom: 0;
+padding: 1rem;
+text-align: center;
+}

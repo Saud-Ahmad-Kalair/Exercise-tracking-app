@@ -1,0 +1,8 @@
+#activity-form{
+    /* height: 80vh; */
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
